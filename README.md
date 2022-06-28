@@ -25,7 +25,7 @@
 
 <a name="instruction"></a>
 ###### INSTRUCTION ######
-Use the **STRUCTURE** in the `Assembly Sheet`\
+Use the **STRUCTURE** in the `Assembly Sheet.pdf`\
 Ex. ADD, C, A, B *(ADD, Dest, Src1, Src2)*\
 Which makes, C = A + B\
 Remember there are only 32 lines, starting at 0
@@ -33,7 +33,7 @@ Remember there are only 32 lines, starting at 0
 <a name="branching"></a>
 ###### BRANCHING ######
 Branching relies on the **PREVIOUS ARITHMETIC** instruction for flags\
-Yellow instructions in the `Assembly Sheet` update the flags\
+Yellow instructions in the `Assembly Sheet.pdf` update the flags\
 **PNT**, is a pointer, **BRH**, is an immediate\
 Use the Abbreviation for the **CONDITION** part\
 Ex. BRH, GRTR, 10 *(BRH, CONDITION, NUMBER)*\
